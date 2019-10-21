@@ -204,11 +204,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0730;
-				ORGANIZATIONNAME = "loyinglin";
+				ORGANIZATIONNAME = loyinglin;
 				TargetAttributes = {
 					FDAAD24D1CE1CD7A00C7B6AC = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = A478ENRUX2;
+						DevelopmentTeam = ZK776JE98H;
 					};
 					FDAAD2661CE1CD7A00C7B6AC = {
 						CreatedOnToolsVersion = 7.3;
@@ -221,6 +221,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -419,13 +420,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = A478ENRUX2;
+				DEVELOPMENT_TEAM = ZK776JE98H;
 				FRAMEWORK_SEARCH_PATHS = "";
 				HEADER_SEARCH_PATHS = "../framework/**";
 				INFOPLIST_FILE = LearnOpenGLESWithGPUImage/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = loying.lin.LearnOpenGLESWithGPUImage;
+				PRODUCT_BUNDLE_IDENTIFIER = loying.huage.LearnOpenGLESWithGPUImage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -435,13 +436,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = A478ENRUX2;
+				DEVELOPMENT_TEAM = ZK776JE98H;
 				FRAMEWORK_SEARCH_PATHS = "";
 				HEADER_SEARCH_PATHS = "../framework/**";
 				INFOPLIST_FILE = LearnOpenGLESWithGPUImage/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = loying.lin.LearnOpenGLESWithGPUImage;
+				PRODUCT_BUNDLE_IDENTIFIER = loying.huage.LearnOpenGLESWithGPUImage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
